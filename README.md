@@ -4,6 +4,11 @@
 
 Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
+Member:
+<br>6720422003 อาทิตยา พุทธโอวาท
+<br>6720422020 สุพิชฌาย์ แก้วเปล่งศรีสกุล
+<br>6720422030 นพวัฒน์ โชคสุนทรเลิศ
+
 # Content
 
 [Part 1: Preprocessing & Cleansing](#part1)
