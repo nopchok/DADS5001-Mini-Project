@@ -244,8 +244,8 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 <table align="center">
   <tr>
     <td align="center">
-      <img src=".\images\01_drop.png" width="400"/><br>
-      <em></em>
+      <img src=".\images\01_drop.png" width="70%"/><br>
+      <em>ตารางที่ 1-1 แสดงข้อมูลผู้มีงานเดิม</em>
     </td>
   </tr>
 </table>
@@ -349,7 +349,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 <table>
   <tr>
     <td align="center">
-      <img src="./images/02_environ_compare.png" /><br>
+      <img src="./images/02_environ_compare.png" width="70%"/><br>
       <em>ตารางที่ 2-1 แสดงเปรียบเทียบสัดส่วนงานตรงสาขากับสัดส่วนผู้สำเร็จการศึกษา Top5 มหาวิทยาลัยเกษตรศาสตร์</em>
     </td>
   </tr>
