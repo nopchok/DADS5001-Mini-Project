@@ -23,7 +23,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 จากภาพที่ 1-1 คือไฟล์ Excel ที่ Download มา จะเห็นได้ว่ายังไม่พร้อมสำหรับการวิเคราะห์ทันที จากตัวอย่างพบปัญหาหลัก 2 ประเด็น
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/01_excel.png" /><br>
@@ -260,7 +260,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 ข้อมูลนี้จึงเป็นจุดตั้งต้นสำคัญในการวิเคราะห์เชิงลึก เพื่อพัฒนาแนวทางการปรับปรุงหลักสูตร การแนะแนวอาชีพ และการสร้างความร่วมมือกับภาคธุรกิจในอนาคต
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_top10.png" /><br>
@@ -275,7 +275,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 จากกราฟที่ 2-2 พบว่า บัณฑิตของมหาวิทยาลัยมีการบันทึกข้อมูลภาวะการได้งานอย่างต่อเนื่องและมีความครบถ้วน โดยมีอัตราการบันทึกข้อมูลเฉลี่ยอยู่ที่ 89.26% ตลอดช่วงเวลาที่ศึกษา ซึ่งสะท้อนถึงความร่วมมือระหว่างบัณฑิตและหน่วยงานภายในมหาวิทยาลัยในการติดตามผลการจ้างงานหลังสำเร็จการศึกษา
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_record.png" /><br>
@@ -287,7 +287,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 ---
 เมื่อจำแนกสถานภาพการทำงานออกเป็น 3 กลุ่มหลักจากกราฟที่ 2-3 แสดงให้เห็นว่า **สัดส่วนของบัณฑิตที่ยังไม่ได้ทำงานสูงมาก เฉลี่ย 53.50%** โดยมีแนวโน้มใกล้เคียงกับกลุ่มที่มีงานทำ คิดเป็น**เฉลี่ย 42.10%** ซึ่งถือเป็นประเด็นที่ควรให้ความสนใจ เนื่องจากสะท้อนถึงความท้าทายในการเข้าสู่ตลาดแรงงานของบัณฑิตในช่วงเวลานั้น
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_working.png" /><br>
@@ -299,7 +299,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 ---
 จากการสำรวจกลุ่มบัณฑิตที่ยังไม่ได้เข้าสู่ตลาดแรงงาน ดังแสดงในกราฟที่ 2-4 พบว่าเหตุผลหลักที่ยังไม่ทำงานคือ **“รอผลการสมัครงาน”** คิดเป็น 32.20% รองลงมาคือ **“ไม่ประสงค์จะทำงาน”** 26.70% ซึ่งทั้งสองเหตุผลมีสัดส่วนใกล้เคียงกัน สะท้อนถึงความไม่แน่นอนในกระบวนการเข้าสู่การจ้างงาน และความหลากหลายของแรงจูงใจส่วนบุคคล
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_noworking.png" /><br>
@@ -318,7 +318,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 การพิจารณาจำนวนผู้สำเร็จการศึกษาในแต่ละคณะช่วยให้สามารถประเมินความหนาแน่นของกำลังคนในแต่ละสาขา และวิเคราะห์ความอิ่มตัวของตลาดแรงงานในบางกลุ่มวิชา
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_salary.png" /><br>
@@ -334,7 +334,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 - สัดส่วนบัณฑิตที่ทำงานตรงตามสาขาวิชาที่เรียน
 - สัดส่วนบัณฑิตที่หางานไม่ได้
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_noworking_bussiness.png" /><br>
@@ -346,7 +346,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 ---
 เมื่อกลุ่มวิจัยได้ดำเนินการวิเคราะห์เชิงลึกในกลุ่มธุรกิจด้านสิ่งแวดล้อม โดยอ้างอิงตารางที่ 2-1 พบว่า คณะวิศวกรรมศาสตร์บัณฑิต สาขาวิศวกรรมสิ่งแวดล้อม เป็นสาขาที่มี สัดส่วนบัณฑิตที่ยังไม่สามารถเข้าสู่ตลาดแรงงานได้สูงที่สุด โดยอยู่ที่ 8.62%
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_environ_compare.png" width="70%"/><br>
@@ -364,7 +364,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 เมื่อกลุ่มวิจัยได้ดำเนินการวิเคราะห์เชิงลึกในกลุ่มธุรกิจด้านสิ่งแวดล้อม โดยอ้างอิงจากกราฟที่ 2-7 พบว่า คณะวิศวกรรมศาสตร์บัณฑิต สาขาวิศวกรรมสิ่งแวดล้อม เป็นสาขาที่มี สัดส่วนบัณฑิตที่ยังไม่สามารถเข้าสู่ตลาดแรงงานได้สูงที่สุด โดยอยู่ที่ 16.2%
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/02_environ.png" /><br>
@@ -384,7 +384,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 ข้อมูลดังกล่าวสะท้อนถึงแนวโน้มการขยายตัวของภาคอุตสาหกรรมที่เกี่ยวข้องกับสิ่งแวดล้อมและการจัดการทรัพยากรอย่างยั่งยืน ซึ่งควรจะส่งผลให้เกิดความต้องการแรงงานในสาขาที่เกี่ยวข้อง เช่น วิศวกรรมสิ่งแวดล้อม อย่างต่อเนื่อง อย่างไรก็ตาม เมื่อพิจารณาร่วมกับข้อมูลการหางานของบัณฑิตในสาขานี้ กลับพบว่ามีสัดส่วนการหางานไม่ได้ในระดับสูง จึงเป็นประเด็นที่ควรได้รับการวิเคราะห์เพิ่มเติมถึงสาเหตุของความไม่สอดคล้องระหว่างการเติบโตของอุตสาหกรรมกับการจ้างงานจริง
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/03_business.png" /><br>
@@ -393,7 +393,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/03_growth.png" /><br>
@@ -408,7 +408,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 เนื่องจากข้อมูลเบื้องต้นมาจากการสำรวจของมหาวิทยาลัยเกษตรศาสตร์เพียงแห่งเดียว ทางกลุ่มวิจัยจึงได้ดำเนินการรวบรวมข้อมูลเพิ่มเติมจากมหาวิทยาลัยอื่นที่เปิดสอนในคณะวิศวกรรมศาสตร์ สาขาวิศวกรรมสิ่งแวดล้อม ได้แก่ มหาวิทยาลัยนเรศวร และมหาวิทยาลัยเทคโนโลยีสุรนารี เพื่อใช้ในการเปรียบเทียบภาวะการมีงานทำของบัณฑิตในสาขาดังกล่าว
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/03_other.png" /><br>
@@ -428,7 +428,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 ## 3.2 การเปรียบเทียบภาวะการมีงานทำระหว่างคณะภายในกลุ่มธุรกิจสิ่งแวดล้อม
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/03_environ_count.png" /><br>
@@ -438,7 +438,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./images/03_environ_nowork.png" /><br>
